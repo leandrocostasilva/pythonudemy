@@ -1,8 +1,0 @@
-print("Videoaulas Neri sobre Python")
-print("Acesse www.informaticon.com.br email=videoaulaneri@gmail.com")
-print("------------------------------------------------------------")
-nome=input("Digote sei nome.: ")
-idade=int(input("Digite a idade.: "))
-salario=float(input("Digite o salario.: "))
-print("Nome.: ", nome, " - idade", idade, " - salario ", salario)
-print("Nome.: %s - idade %d - salario R$ %5.2f " %(nome, idade, salario))
